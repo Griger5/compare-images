@@ -88,6 +88,7 @@ cd compare-images-inator
 
 2. Run the build script:
 ```bash
+./setup.sh
 ./build.sh
 ```
 
